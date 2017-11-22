@@ -16,7 +16,7 @@ For more details, please, check out the [source code directory](https://github.c
 
 ## Result
 
-The results of the EKF fusion algorithm for:
+The results of the UKF fusion algorithm for:
 * Both [LiDAR and RADAR](https://github.com/wafarag/UKF-Sensor-Fusion/blob/master/data/Accuracy_Result_Both.txt): RMS => [0.064759, 0.080944, 0.145182, 0.15924].
 * For [LiDAR alone](https://github.com/wafarag/UKF-Sensor-Fusion/blob/master/data/Accuracy_Result_Lidar.txt): RMS => [0.161211, 0.146364, 0.208204, 0.212872]. 
 * For [RADAR alone](https://github.com/wafarag/UKF-Sensor-Fusion/blob/master/data/Accuracy_Result_Radar.txt): RMS => [0.20313, 0.253866, 0.304843, 0.22708].
