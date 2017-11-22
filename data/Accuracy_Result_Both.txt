@@ -1,0 +1,16 @@
+Both Lidar & Radar
+
+Accuracy - RMSE: 
+0.064759
+0.080944
+0.145182
+ 0.15924
+
+# of Laser records: 250
+# of Radar records: 250
+
+Lidar: Average NIS: 2.7903
+Radar: Average NIS: 2.80535
+
+Lidar: NIS records crossing Threshold:  1.6 %
+Radar: NIS records crossing Threshold:  3.6 %
